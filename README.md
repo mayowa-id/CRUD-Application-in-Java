@@ -38,11 +38,10 @@ This project manages "User" data in a MySQL database, showcasing how to implemen
 
  PROJECT STRUCTURE 
 
-├── Main.java              # Entry point to interact with the CRUD 
-                            application
-├── DatabaseConnection.java # Manages the MySQL database connection
-├── User.java               # Represents the User entity
-└── UserDAO.java            # Data Access Object to perform CRUD operations
+- Main.java  -  -  -  -  Entry point to interact with the CRUD .
+- DatabaseConnection.java  -  -  -  -  Manages the MySQL database connection
+- User.java  -  -  -  -   Represents the User entity
+- UserDAO.java  -  -  -  -  Data Access Object to perform CRUD operations
 
 
 
