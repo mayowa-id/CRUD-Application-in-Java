@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de"
+      xmlns:f="https://xsd.helhum.io/ns/typo3/cms-fluid/master/ViewHelpers"
+      data-namespace-typo3-fluid="true">
+    <head>
+        <meta charset="utf-8"></meta>>
+        <title>Template: test</title>
+    </head>
+    <body>
+
+
+        <f:layout name="Default"/>
+
+        <f:section name="Content">
+            <div class="test1">
+                <div class="test2">
+
+                </div>
+            </div>
+        </f:section>
+
+    </body>
+</html>
